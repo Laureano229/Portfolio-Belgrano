@@ -147,7 +147,6 @@ El sistema evalúa jugadores disponibles en el mercado usando un algoritmo de sc
 
 ## 👤 Autor
 
-**Laureano** — Analista de Datos  
-📧 [Tu email]  
-💼 [Tu LinkedIn]  
-🌐 [Tu Upwork o Workana]
+**Laureano** — Cientifico de datos  
+📧 lau_aguirre_martin@outlook.es
+💼 https://www.linkedin.com/in/laureano-aguirre/?locale=es  
