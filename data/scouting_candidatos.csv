@@ -1,0 +1,21 @@
+Player,Pos,Age,Nacionalidad,Liga_actual,Valor_mercado,Contrato,Score_Compatibilidad
+Cristian Pavon,FW,28,Argentina,Libre,"2,0",Libre,100
+Mauro Icardi,FW,31,Argentina,Libre,"3,0",Libre,90
+Hernan Perez,MF,33,Argentina,Libre,"0,4",Libre,90
+Ramiro Carrera,MF,28,Argentina,Tigre,"1,0",Jun 2025,90
+Brian Romero,FW,27,Argentina,River Plate,"3,0",Dic 2025,80
+Fernando Zuqui,MF,32,Argentina,Estudiantes,"1,2",Jun 2025,80
+Dario Benedetto,FW,34,Argentina,Libre,"0,5",Libre,75
+Lucas Pratto,FW,36,Argentina,Libre,"0,3",Libre,75
+Nicolas Lodeiro,MF,35,Uruguay,Libre,"0,5",Libre,75
+Leonardo Gil,MF,33,Argentina,Colo-Colo,"1,0",Dic 2025,70
+Gaston Gimenez,MF,32,Argentina,Chicago Fire,"1,5",Dic 2025,70
+Jonathan Calleri,FW,30,Argentina,Sao Paulo,"3,5",Dic 2025,70
+Lautaro Acosta,FW,34,Argentina,Lanus,"0,8",Jun 2025,65
+Joaquin Correa,FW,30,Argentina,Inter Milan,"8,0",Jun 2025,60
+Marcos Acuna,MF,32,Argentina,Sevilla,"5,0",Jun 2025,60
+Rodrigo Bentancur,MF,27,Uruguay,Tottenham,"28,0",Jun 2026,45
+Lucas Ocampos,MF,30,Argentina,Ajax,"12,0",Jun 2026,45
+Angel Correa,FW,29,Argentina,Atletico Madrid,"18,0",Jun 2026,45
+Alexis Mac Allister,MF,26,Argentina,Liverpool,"70,0",Jun 2028,45
+Exequiel Palacios,MF,26,Argentina,Bayer Leverkusen,"20,0",Jun 2026,45
